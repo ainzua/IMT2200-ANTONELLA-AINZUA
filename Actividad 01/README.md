@@ -1,2 +1,5 @@
 # imt2200_actividad1
-Edite este archivo agregando información útil para quien lo revise.
+Estimado:
+Repositorio actualizado con jupyter ejecutado e imagen generada con el apellido correspondiente.
+Desde ya, gracias.
+Antonella
